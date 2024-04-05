@@ -1,4 +1,4 @@
-zpp::throwing
+zpp::throwing (using zig build [libc++])
 =============
 
 [![.github/workflows/actions.yml](https://github.com/eyalz800/zpp_throwing/actions/workflows/actions.yml/badge.svg)](https://github.com/eyalz800/zpp_throwing/actions/workflows/actions.yml)
